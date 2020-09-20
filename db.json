@@ -2,78 +2,91 @@
 	"items": [{
 			"image": "https://img.yad2.co.il/Pic/202008/25/3_0/o/o3_0_1_03727_20200825100819.jpg?l=7&c=3&w=195&h=117",
 			"description": "מחשב מיני , עם ווינדוס 10 וזיכ",
+			"long_description": "מק מיני כמו חדש לא היה בשימוש 500G 10RM ",
 			"city": "חיפה",
 			"price": "600 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202009/17/3_0/o/o3_0_1_05708_20200917150939.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac mini 2012 late",
+			"long_description": "למכירה מיני מק I7 סוף 2014 16G זיכרון דיסק 1T SSD כולל קופסא ...",
 			"city": "רחובות",
 			"price": "1,300 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202006/28/3_0/o/o3_0_1_03775_20200628110602.jpg?l=7&c=3&w=195&h=117",
 			"description": "למכירה מיני מק",
+			"long_description": "mac mini mac mini  A117 1.83 GHZ V2 GB ...",
 			"city": "ראשון לציון",
 			"price": "3,000 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202009/09/3_0/o/o3_0_1_09792_20200909160915.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac Mini Late 2014",
+			"long_description": "למכירה איימק שנת 2008 דגם A1283 זיכרון 6 גיגה DDR3  במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "כפר סבא",
 			"price": "750 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202008/01/3_0/o/o3_0_1_09379_20200801210801.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac mini 2.5GHz i5, 16 GB RAM",
+			"long_description": "מק מיני מגיע עם כל האביזרים, הקופסה המקורית וקבלות מiDigital.16GB מחשב אפל שולחני במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "אשדוד",
 			"price": "1,600 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202002/20/3_0/o/o3_0_1_06251_20200220000208.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac mini + Mac Cinema Display",
+			"long_description": "מק מיני מגיע עם כל האביזרים, הקופסה המקורית וקבלות מiDigital.16GB מחשב אפל שולחני במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "תל אביב יפו",
 			"price": "3,999 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202007/21/3_0/o/o3_0_2_04337_20200721090748.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac 2008 El Capitan",
+			"long_description": "למכירה איימק שנת 2008 דגם A1283 זיכרון 6 גיגה DDR3  במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "תל אביב יפו",
 			"price": "450 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202007/28/3_0/o/o3_0_1_01455_20200728130724.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac Mini 2014",
+			"long_description": "מק מיני מגיע עם כל האביזרים, הקופסה המקורית וקבלות מiDigital.16GB מחשב אפל שולחני במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "חדיד",
 			"price": "1,900 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202009/06/3_0/o/o3_0_1_06782_20200906120910.jpg?l=7&c=3&w=195&h=117",
 			"description": "Apple MacMini 2020",
+			"long_description": "למכירה איימק שנת 2008 דגם A1283 זיכרון 6 גיגה DDR3  במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "חדיד",
 			"price": "5,000 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202007/04/3_0/o/o3_0_1_03188_20200704100710.jpg?l=7&c=3&w=195&h=117",
 			"description": "mac mini",
+			"long_description": "מק מיני מגיע עם כל האביזרים, הקופסה המקורית וקבלות מiDigital.16GB מחשב אפל שולחני במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "חיפה",
 			"price": "590 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202006/26/3_0/o/o3_0_1_06810_20200626140649.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac mini i7 Quad-Core 4TB SSD",
+			"long_description": "למכירה איימק שנת 2008 דגם A1283 זיכרון 6 גיגה DDR3  במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "תל אביב יפו",
 			"price": "4,500 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202008/23/3_0/o/o3_0_1_01554_20200823170816.jpg?l=7&c=3&w=195&h=117",
 			"description": "Mac Mini Late 2014 i5 500GB 8G",
+			"long_description": "מק מיני מגיע עם כל האביזרים, הקופסה המקורית וקבלות מiDigital.16GB מחשב אפל שולחני במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "קרית מוצקין",
 			"price": "2,000 ₪"
 		},
 		{
 			"image": "https://img.yad2.co.il/Pic/202003/25/3_2/o/o3_2_1_03840_20200325230301.jpg?l=7&c=3&w=195&h=117",
 			"description": "קונים מחשבי מקינטוש בכל כמות!",
+			"long_description": "למכירה איימק שנת 2008 דגם A1283 זיכרון 6 גיגה DDR3  במצב חדש (דגם לפני הנוכחי שזה 2018), ...",
 			"city": "תל אביב יפו",
 			"price": "1,000 ₪"
 		}
